@@ -2,7 +2,7 @@ import { useState } from 'react'
 import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
-import './css/app.css'
+
 
 function App() {
   
@@ -12,7 +12,7 @@ function App() {
       <div>
         <h1>HEllo WORLD</h1>
         <hr />
-        <p><a href="">dsadas</a></p>
+        <p><a href="">dsada321321321321s</a></p>
       </div>
     </>
   )
